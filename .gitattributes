@@ -1,0 +1,1 @@
+python/PySide2/Qt/lib/Qt*.framework/Versions/5/* filter=lfs diff=lfs merge=lfs -text
